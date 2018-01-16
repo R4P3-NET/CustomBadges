@@ -1,0 +1,34 @@
+{
+	"0c4u2snt-ao1m-7b5a-d0gq-e3s3shceript": {
+		"name": "Custom Badges",
+		"description": "This user got the CustomBadges script",
+		"filename": "python" },
+	"cnuvxb5c-jiu0-rhek-x38m-xe0zndbb1wgq": {
+		"name": "R4P3.NET",
+		"description": "The better TeamSpeak forum",
+		"filename": "r4p3" },
+	"xd52ttaw-7uuq-tyex-plnw-7dg6ykp856dq": {
+		"name": "TeaSpeak",
+		"description": "A fan of the TeaSpeak server software",
+		"filename": "teaspeak" },
+	"17dfa0dc-b6e6-42fd-8c9c-b7d168f0823e": {
+		"name": "Coolest Hat",
+		"description": "This user won the Coolest Hat Award.",
+		"filename": "hat" },
+	"ef85ab02-8236-4e38-96cb-02c73789734f": {
+		"name": "Best Bug Hunter",
+		"description": "This user won the Best Bug Hunter Award.",
+		"filename": "bug" },
+	"facee3a7-1db0-4493-a5cf-24c9f938d35d": {
+		"name": "Informed User",
+		"description": "This is a certified informed TeamSpeak user.",
+		"filename": "info" },
+	"c9a170ca-62c2-47bf-990b-db75a5d7b086": {
+		"name": "I'm a Scanner",
+		"description": "This user is a flatbed scanner.",
+		"filename": "scanner" },
+	"c9a170ca-62c2-47bf-990b-db75a5d7b086": {
+		"name": "I'm a Floppy",
+		"description": "This user is a floppy disk.",
+		"filename": "floppy" }
+}
