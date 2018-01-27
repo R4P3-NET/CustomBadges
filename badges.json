@@ -30,5 +30,9 @@
 	"c9a170ca-62c2-47bf-990b-db75a5d7b086": {
 		"name": "I'm a Floppy",
 		"description": "This user is a floppy disk.",
-		"filename": "floppy" }
+		"filename": "floppy" },
+	"tuersteher": {
+		"name": "Türsteher",
+		"description": "Adolf Hitler",
+		"filename": "tuersteher"}
 }
